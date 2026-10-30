@@ -1,0 +1,5 @@
+NETGUARD SECURITY REPORT
+
+[PORT SCAN] 192.168.1.30 accessed 5 ports
+[BRUTE FORCE] 192.168.1.20 had 5 failed attempts
+[TRAFFIC SPIKE] 192.168.1.40 generated 10 events within 60 seconds
